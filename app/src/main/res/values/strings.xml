@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="title_activity_users" />
+    <string name="users">Users</string>
+</resources>
